@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\mainPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\photos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:photos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\bio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainPage.html",
+              "DocumentMoniker": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\mainPage.html",
+              "RelativeDocumentMoniker": "mainPage.html",
+              "ToolTip": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\mainPage.html",
+              "RelativeToolTip": "mainPage.html",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T00:09:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "photos.html",
+              "DocumentMoniker": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\photos.html",
+              "RelativeDocumentMoniker": "photos.html",
+              "ToolTip": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\photos.html",
+              "RelativeToolTip": "photos.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T00:09:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bio.html",
+              "DocumentMoniker": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\bio.html",
+              "RelativeDocumentMoniker": "bio.html",
+              "ToolTip": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\bio.html",
+              "RelativeToolTip": "bio.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T00:09:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blog.html",
+              "DocumentMoniker": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\blog.html",
+              "RelativeDocumentMoniker": "blog.html",
+              "ToolTip": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\blog.html",
+              "RelativeToolTip": "blog.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T00:09:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "C:\\Users\\amsor\\Documents\\GitHub\\Lab-2-CS360\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T00:09:35.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
